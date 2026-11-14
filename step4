@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Paragraphs and Line Breaks</title>
+</head>
+<body>
+    <h1>Xisrav Aslonov</h1>
+    <p><i>Student</i></p>
+    <hr>
+
+    <h2>Contact Information</h2>
+    <p>
+        Address: Tashkent, Uzbekistan<br>
+        Phone: [Your phone number]<br>
+        Email: [Your email address]
+    </p>
+    <hr>
+
+    <h2>Profile</h2>
+    <p>I am a student interested in computer science and information technology.
+       I want to develop my programming skills and gain practical experience.</p>
+    <hr>
+
+    <h2>Education</h2>
+    <h3>[Your University]</h3>
+    <p>Degree / Programme: [Your programme]</p>
+    <h3>[Your School]</h3>
+    <p>Years of study: [Years]</p>
+    <hr>
+
+    <h2>Skills</h2>
+    <p>HTML, basic computer skills, teamwork and communication.</p>
+    <hr>
+
+    <h2>Languages</h2>
+    <p>Uzbek, Russian, English.</p>
+    <hr>
+
+    <h2>Hobbies</h2>
+    <p>[Add your hobbies here.]</p>
+</body>
+</html>

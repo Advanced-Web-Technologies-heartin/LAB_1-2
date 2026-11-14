@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CV of Xisrav Aslonov, a student interested in computer science and web development.">
+    <meta name="keywords" content="CV, resume, student, HTML, web development">
+    <meta name="author" content="Xisrav Aslonov">
+    <title>CV - Xisrav Aslonov</title>
+</head>
+<body>
+    <h1>Xisrav Aslonov</h1>
+    <p><i>Student / Future Web Developer</i></p>
+    <hr>
+
+    <h2>Contact Information</h2>
+    <p>
+        <b>Address:</b> Tashkent, Uzbekistan<br>
+        <b>Phone:</b> [Your phone number]<br>
+        <b>Email:</b> [Your email address]
+    </p>
+    <hr>
+
+    <h2>Profile</h2>
+    <p>I am a <strong>motivated</strong> student interested in <em>web development</em> and computer science.
+       My goal is to <u>become a skilled developer</u> and gain practical experience.</p>
+    <hr>
+
+    <h2>Education</h2>
+    <h3>[Your University]</h3>
+    <p><b>Programme:</b> [Your degree or programme]</p>
+    <p><b>Years:</b> [Start year] - [End year]</p>
+    <h3>[Your School]</h3>
+    <p><b>Years:</b> [School years]</p>
+    <hr>
+
+    <h2>Skills</h2>
+    <p>HTML, basic programming, computer literacy, teamwork and communication.</p>
+    <hr>
+
+    <h2>Languages</h2>
+    <p>Uzbek, Russian and English.</p>
+    <hr>
+
+    <h2>Hobbies</h2>
+    <p>[Add your hobbies here.]</p>
+    <h2>Achievement</h2>
+    <p><mark>[Add an award, certificate or achievement]</mark></p>
+
+    <p><small>Last updated: November 2026</small></p>
+</body>
+</html>

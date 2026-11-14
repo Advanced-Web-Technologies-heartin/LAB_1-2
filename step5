@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Text Formatting</title>
+</head>
+<body>
+    <h1>Xisrav Aslonov</h1>
+    <p><i>Student / Future Web Developer</i></p>
+
+    <h2>Contact Information</h2>
+    <p><b>Phone:</b> [Your phone number]</p>
+    <p><b>Email:</b> [Your email address]</p>
+
+    <h2>Profile</h2>
+    <p>I am a <strong>motivated</strong> student interested in <em>web development</em> and computer science.</p>
+    <p>My goal is to <u>become a skilled developer</u> and improve my practical programming abilities.</p>
+
+    <h2>Achievement</h2>
+    <p><mark>[Add an award, certificate or achievement]</mark></p>
+
+    <h2>Education</h2>
+    <p><b>Year:</b> [Start year] - [End year]</p>
+    <p>I am a 1<sup>st</sup> year student. Example of a subscript: H<sub>2</sub>O.</p>
+
+    <p><small>Last updated: November 2026</small></p>
+</body>
+</html>
